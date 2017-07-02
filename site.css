@@ -1,0 +1,15 @@
+#all-holes {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+
+.row {
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.hole {
+    margin: 10px;
+}
